@@ -78,6 +78,10 @@ a,a:hover{
 
 
 
+/* Additional styles for button spacing */
+.call-action-content ul li {
+    margin-bottom: 15px; /* Adjust this value as needed */
+}
 
 
 /* navbar */
